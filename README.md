@@ -82,4 +82,8 @@ Lab-3-Bash-Recon-Tool/
 - Figure 11 - Script Backup and Verification
 
 ## ⚠️ Authorisation
-This reconnaissance tool was created for educational purposes as part of the ICDFA Cybersecurity & Digital Forensics programme. It was tested only against authorised ICDFA lab targets and must not be used against systems without explicit permission.
+This project was created for educational purposes as part of the ICDFA Cybersecurity and Digital Forensics Programme.
+
+All testing was performed exclusively within an authorised laboratory environment against the designated Metasploitable 2 training target. The techniques and tools demonstrated in this repository should only be used on systems for which explicit permission has been granted.
+
+Unauthorised scanning or testing of systems and networks may violate organisational policies, terms of service, and applicable laws.
