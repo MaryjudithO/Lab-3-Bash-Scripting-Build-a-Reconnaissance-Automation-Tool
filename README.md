@@ -1,12 +1,5 @@
 # Lab 3: Bash Scripting - Build a Reconnaissance Tool
 
-## Student Information
-
-- Name: Maryjudith Chidinma Ogunaka
-- Programme: ICDFA Trainee | Cohort 11
-- Lab: Lab 3 - Bash Scripting
-- Authorised Target: 10.15.203.91
-
 ## Project Description
 
 For this lab, I built a Bash script that automates three reconnaissance tools: WhatWeb, Nmap, and DIRB into a single menu-driven tool. The script prompts the user for an authorised target, validates the input, displays a menu, and runs the selected reconnaissance tool against the target.
